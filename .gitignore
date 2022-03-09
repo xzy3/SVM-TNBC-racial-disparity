@@ -1,0 +1,5 @@
+*.eps
+*.pdf
+*.sw?
+**/.ipynb_checkpoints/*
+.~lock*#
